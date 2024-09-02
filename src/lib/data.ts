@@ -1,6 +1,8 @@
 // TEMPORARY DATA
 
 export let role = "admin";
+// export let role = "student";
+// export let role = "parent";
 
 export const teachersData = [
   {
